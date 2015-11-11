@@ -67,7 +67,11 @@
 * 189页，中-“第一个例子我们在客户类里构建由17个数字和一个数字或字母构成的语法树”，这里没有看懂是指的哪个例子。
 
 
-## 十二章
+## 第三章
+
+1、44页 Computer类中setBoard方法中的core变量和setDisplay方法中的gb变量来源不明（第一次印刷）
+
+## 第十二章
 
 1、226页  Test类里的方法main中 DevTechFrontierDevTechFrontier = DevTechFrontier()； 中间没有空格，应该修改为"DevTechFrontier devTechFrontier = DevTechFrontier()"；
 
